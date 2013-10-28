@@ -1,4 +1,4 @@
 Maze Solver
 ===========
 
-An A* implementation of a maze solver.
+An ruby command-line maze solver utilizing an A* shortest path implementation.
